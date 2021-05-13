@@ -13,7 +13,13 @@
 <p>
 With the webpage, you are able to filter the results based on date, city, state, country, and/or ufo shape.  By simply selecting one of the provided input fields and entering in the information you want to filter down to, and then clicking outside the filter, you can interact with the table data and hone in on what you are looking for.  In order to re-populate the entire table you must delete any data in the inputs.
 </p>
-
+<p align='center'>
+  <img src='https://github.com/tc9993/javascript-ufo-sightings/blob/main/Resources/mid_typing.png?raw=true' alt='Filter Mid Typing'><br>
+  <b>Figure 1.1:</b> Unchanged table data while still entering desired date
+  <br><br>
+  <img src='https://github.com/tc9993/javascript-ufo-sightings/blob/main/Resources/filter_used.png?raw=true' alt='Filter Used'></br>
+  <b>Figure 1.2:</b> Data updated by date, but not by city as that specific input remains in focus.
+</p>
 <h2>Summary</h2>
 
 <h3>Drawback</h3>
